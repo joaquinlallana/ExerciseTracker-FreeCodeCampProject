@@ -33,7 +33,7 @@ npm install
 3. Create a .env file in the root directory with your MongoDB connection string:
 text
 
-MONGO_URI=mongodb+srv://joaquinlallana:J04qu1n256@exercisetrackerdatabase.vdqegqg.mongodb.net/?retryWrites=true&w=majority&appName=ExerciseTrackerDatabase
+MONGO_URI=[Place your database]
 PORT=3000
 
 4. Start the server:
